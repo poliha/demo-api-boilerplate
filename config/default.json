@@ -3,7 +3,7 @@
   "port": 9000,
   "allowedOrigins": "*",
   "horizonUrl": "https://horizon-testnet.stellar.org",
-  "startingBalance": "2",
+  "startingBalance": "20",
   "assetCode": "RWF",
   "destinationAmount": "500",
   "issuer": {
